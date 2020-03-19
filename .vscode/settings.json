@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\Minato86\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    "python.linting.pylintArgs": ["--extension-pkg-whitelist=numpy, cv2"]
+}

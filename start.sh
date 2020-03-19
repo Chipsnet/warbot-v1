@@ -1,0 +1,14 @@
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py
+python3 war.py

@@ -1,0 +1,27 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+discord = "*"
+requests = "*"
+twitter = "*"
+schedule = "*"
+requests-oauthlib = "*"
+pya3rt = "*"
+python-gyazo = "*"
+pillow = "*"
+opencv-python = "*"
+twython = "*"
+oauth2 = "*"
+pytz = "*"
+pynacl = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+start = "python war.py"
