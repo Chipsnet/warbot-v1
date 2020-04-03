@@ -2,3 +2,4 @@ Clientdata/log
 Lib/
 Config
 Userdata/points
+__pycache__
