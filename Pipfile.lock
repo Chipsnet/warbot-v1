@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "8464a89e6860fa4bd8c1c1b8fdf4cd0f9f4cfd42ebf1f7998c435129cce9ad19"
+            "sha256": "2e2148cfcc585525709d6b1753f34c74ab1f97c031af8d57dd8c236f8c2fb01d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -352,11 +352,11 @@
         },
         "twython": {
             "hashes": [
-                "sha256:145c07af6dede60906efa16b1d9648d830194833b2684a97e96b196b3250c8b1",
-                "sha256:d65ece8c93013eea65a507aa3511dcc62ec23569732ca262143ff119a72cb299"
+                "sha256:a469d673fdd20d1c346e9b9f784212db521aa611bbdfc4912229ab701b36002b",
+                "sha256:c6ca64309260e0ab47267f76217c80812f591991437f376fc61498816384f9e7"
             ],
             "index": "pypi",
-            "version": "==3.8.0"
+            "version": "==3.8.2"
         },
         "websockets": {
             "hashes": [
