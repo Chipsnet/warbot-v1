@@ -534,7 +534,7 @@ class MyClient(discord.Client):
             else:
                 log_client.warning('権限がありません。')
                 await message.channel.send(':warning: おっと、権限をお持ちでないようです！')
-            
+
 
         if message.content.startswith('/stop'):
             log_client.info('{0.author.name} at {0.guild.name} in {0.channel.name}：{0.content}が実行されました。'.format(message))
@@ -1858,5 +1858,9 @@ class MyClient(discord.Client):
             else:
                 await message.channel.send('`Error : 対応していない形式です。`')
 
+# configの読み込み
+with open("./Config/config.json") as f:
+    CONFIG = json.load(f)
+
 client = MyClient()
-client.run('*')
+client.run(CONFIG["discord"]["token"])

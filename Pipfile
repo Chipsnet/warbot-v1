@@ -38,3 +38,6 @@ PyNaCl = "==1.4.0"
 
 [requires]
 python_version = "3.8"
+
+[scripts]
+start = "python war.py"
