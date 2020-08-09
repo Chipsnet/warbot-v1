@@ -3,3 +3,4 @@ Lib/
 Config
 Userdata/points
 __pycache__
+pyvenv.cfg
