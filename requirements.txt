@@ -9,7 +9,7 @@ discord==1.0.1
 httplib2==0.18.1
 idna==2.10
 multidict==4.7.6
-numpy==1.19.1
+numpy==1.19.2
 oauth2==1.9.0.post1
 oauthlib==3.1.0
 opencv-python==4.3.0.36
