@@ -13,7 +13,7 @@ numpy==1.19.2
 oauth2==1.9.0.post1
 oauthlib==3.1.0
 opencv-python==4.4.0.44
-pillow==8.0.1
+pillow==8.1.0
 pya3rt==1.1
 pycparser==2.20
 pynacl==1.4.0
