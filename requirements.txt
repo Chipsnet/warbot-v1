@@ -12,7 +12,7 @@ multidict==4.7.6
 numpy==1.19.2
 oauth2==1.9.0.post1
 oauthlib==3.1.0
-opencv-python==4.4.0.44
+opencv-python==4.5.1.48
 pillow==8.0.1
 pya3rt==1.1
 pycparser==2.20
