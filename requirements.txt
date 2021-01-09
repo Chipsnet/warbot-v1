@@ -4,7 +4,7 @@ async-timeout==3.0.1
 attrs==19.3.0
 cffi==1.14.3
 chardet==3.0.4
-discord.py==1.5.1
+discord.py==1.6.0
 discord==1.0.1
 httplib2==0.18.1
 idna==2.10
